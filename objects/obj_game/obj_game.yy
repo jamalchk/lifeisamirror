@@ -23,6 +23,26 @@
             "enumb": 0,
             "eventtype": 3,
             "m_owner": "8bbdafaf-9a4d-4d57-844c-21f77c240b3e"
+        },
+        {
+            "id": "8fd0df3d-9530-456b-8f25-58fb04e241e7",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 82,
+            "eventtype": 9,
+            "m_owner": "8bbdafaf-9a4d-4d57-844c-21f77c240b3e"
+        },
+        {
+            "id": "ce8813bd-2c3b-4eee-b039-eb1c6ce1f810",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "00000000-0000-0000-0000-000000000000",
+            "enumb": 0,
+            "eventtype": 2,
+            "m_owner": "8bbdafaf-9a4d-4d57-844c-21f77c240b3e"
         }
     ],
     "maskSpriteId": "00000000-0000-0000-0000-000000000000",
@@ -54,6 +74,48 @@
             "resourceFilter": 1023,
             "value": "2",
             "varName": "global.grav",
+            "varType": 0
+        },
+        {
+            "id": "176dea2a-6bba-4ee4-8f7d-bd54834d80f2",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "0",
+            "varName": "screen_shake",
+            "varType": 3
+        },
+        {
+            "id": "26a34f8a-92eb-4c53-86e8-c5729726201b",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "3",
+            "varName": "shake_amount",
+            "varType": 0
+        },
+        {
+            "id": "a2fa4b77-b33a-40b3-87b7-281a618be0b5",
+            "modelName": "GMObjectProperty",
+            "mvc": "1.0",
+            "listItems": null,
+            "multiselect": false,
+            "rangeEnabled": false,
+            "rangeMax": 10,
+            "rangeMin": 0,
+            "resourceFilter": 1023,
+            "value": "15",
+            "varName": "shake_time",
             "varType": 0
         }
     ],

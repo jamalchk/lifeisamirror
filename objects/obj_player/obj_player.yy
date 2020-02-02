@@ -23,6 +23,26 @@
             "enumb": 0,
             "eventtype": 8,
             "m_owner": "6da218db-969f-4088-9b28-aee3a47408f1"
+        },
+        {
+            "id": "2b2a7333-994d-4d42-8daf-874e9461e2d6",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "09c7b533-390e-4dbe-98a1-3c807e4afa72",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "6da218db-969f-4088-9b28-aee3a47408f1"
+        },
+        {
+            "id": "4ad6c1c9-846e-4517-8efc-8f14c65565dd",
+            "modelName": "GMEvent",
+            "mvc": "1.0",
+            "IsDnD": true,
+            "collisionObjectId": "1409e727-7324-4ee2-bd38-9f3ea7abc9e5",
+            "enumb": 0,
+            "eventtype": 4,
+            "m_owner": "6da218db-969f-4088-9b28-aee3a47408f1"
         }
     ],
     "maskSpriteId": "a4750c0f-f617-41df-bdf5-6fe2f97c9e61",
@@ -52,7 +72,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "13",
+            "value": "8",
             "varName": "walk_spd",
             "varType": 0
         },
@@ -66,7 +86,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "17",
+            "value": "16",
             "varName": "jump_spd",
             "varType": 0
         }
