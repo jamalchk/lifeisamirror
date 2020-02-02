@@ -85,7 +85,7 @@
             "rangeMax": 10,
             "rangeMin": 0,
             "resourceFilter": 1023,
-            "value": "1.2",
+            "value": "8",
             "varName": "walk_spd",
             "varType": 0
         },

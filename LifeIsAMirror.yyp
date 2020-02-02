@@ -287,6 +287,14 @@
             }
         },
         {
+            "Key": "b925a039-5761-470d-b67b-c8eb0fed8953",
+            "Value": {
+                "id": "069b3208-458f-4fee-93eb-6b741afe639b",
+                "resourcePath": "sprites\\spr_fundo_paralaxe\\spr_fundo_paralaxe.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "bf1dc9b1-6c00-49d6-913b-fca0cd3d766d",
             "Value": {
                 "id": "5e86e357-9774-4172-b2d2-ce6cd5fd5718",
