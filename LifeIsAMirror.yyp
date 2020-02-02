@@ -47,11 +47,27 @@
             }
         },
         {
+            "Key": "09c7b533-390e-4dbe-98a1-3c807e4afa72",
+            "Value": {
+                "id": "5aad0b66-e7ad-4324-917d-6616537ff4f2",
+                "resourcePath": "objects\\obj_enemy\\obj_enemy.yy",
+                "resourceType": "GMObject"
+            }
+        },
+        {
             "Key": "0a39474c-0214-4e67-9341-554f91968247",
             "Value": {
                 "id": "8c614998-58c3-4813-9651-55ff89f476d4",
                 "resourcePath": "scripts\\anim\\anim.yy",
                 "resourceType": "GMScript"
+            }
+        },
+        {
+            "Key": "1425e527-e9bc-4576-bbdc-21359817dea5",
+            "Value": {
+                "id": "f3746c3b-aa88-491a-ba59-ef4877038038",
+                "resourcePath": "tilesets\\t_jungle\\t_jungle.yy",
+                "resourceType": "GMTileSet"
             }
         },
         {
@@ -95,6 +111,22 @@
             }
         },
         {
+            "Key": "39cc9242-26e7-471f-82b1-31f16cd76355",
+            "Value": {
+                "id": "2daffe68-81fd-472d-8c05-820eab4b16d7",
+                "resourcePath": "sprites\\spr_enemy_idle\\spr_enemy_idle.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
+            "Key": "42525eb6-9649-4d42-af4e-c98bafb5a23a",
+            "Value": {
+                "id": "c161148e-14ef-4646-9115-9ef900b67463",
+                "resourcePath": "scripts\\anim_enemy\\anim_enemy.yy",
+                "resourceType": "GMScript"
+            }
+        },
+        {
             "Key": "4508f2d6-23cc-4ee3-b197-49f3c89c365a",
             "Value": {
                 "id": "4d9d9acf-04ea-408c-bc3a-50735687d254",
@@ -108,6 +140,14 @@
                 "id": "f18e979d-6a30-460d-9bda-0e42f3eaf479",
                 "resourcePath": "views\\567ace09-daa0-49a3-b32e-04a23cec641f.yy",
                 "resourceType": "GMFolder"
+            }
+        },
+        {
+            "Key": "60e0525d-4948-46ee-959f-96e1ba7195fc",
+            "Value": {
+                "id": "af889744-ec43-47b7-b7db-7782e7df09d4",
+                "resourcePath": "sprites\\spr_jungle\\spr_jungle.yy",
+                "resourceType": "GMSprite"
             }
         },
         {
@@ -263,6 +303,14 @@
             }
         },
         {
+            "Key": "c7bfb638-ca8d-4585-bad3-5f38bee61b19",
+            "Value": {
+                "id": "c591898b-1652-406a-9a3d-c28c8d445de8",
+                "resourcePath": "sprites\\spr_enemy_walk\\spr_enemy_walk.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "cc98d028-7bdd-4680-85f3-c87a7baa481e",
             "Value": {
                 "id": "2432e25c-eee6-4989-9b02-2b8a7ad39b5b",
@@ -335,6 +383,14 @@
             }
         },
         {
+            "Key": "ef381bab-1293-4d6c-8401-51ba029caf84",
+            "Value": {
+                "id": "31420076-2774-46a7-b4ee-2d8f0b9fdf6c",
+                "resourcePath": "sprites\\spr_enemy_dead\\spr_enemy_dead.yy",
+                "resourceType": "GMSprite"
+            }
+        },
+        {
             "Key": "f418569b-3bdd-4706-a0e4-364317f54032",
             "Value": {
                 "id": "e4cb6802-050d-4c46-9ea0-9bca9eb8e90f",
@@ -356,9 +412,11 @@
         "1664a10d-fdca-4e14-8afa-b27d3a6d88e9",
         "68a77e75-6604-4a5c-a145-201fa0cba143",
         "0a39474c-0214-4e67-9341-554f91968247",
+        "42525eb6-9649-4d42-af4e-c98bafb5a23a",
         "a04d056d-71bf-4f73-8e12-e282704bb720",
         "a7c3c1ff-fb53-4683-b562-cbb1ada47063",
-        "fb1f14e4-d12a-4e3d-9192-46127fcb6bce"
+        "fb1f14e4-d12a-4e3d-9192-46127fcb6bce",
+        "bf1dc9b1-6c00-49d6-913b-fca0cd3d766d"
     ],
     "tutorial": ""
 }
